@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamvaibhav" alt="iamvaibhav" /></a> </p>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamvaibhav31&show_icons=true&locale=en&layout=compact" alt="iamvaibhav31" /></p>
+
 - 🌱 I’m currently learning **Machine Learning**
  
 - 👯 I’m looking to collaborate with AI Developer
