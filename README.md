@@ -2,9 +2,9 @@
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
 
 
-- 🌱 I’m currently learning **Artificial intelligence**
+- 🌱 I’m currently learning **web Development **
  
-- 👯 I’m looking to collaborate with AI Developer
+- 👯 I’m looking to collaborate with Web Developers 
 
 - 📫 How to reach me **vaibhavsharamofficial31@gmail.com**
 
