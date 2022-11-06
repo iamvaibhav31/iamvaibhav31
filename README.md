@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm vaibhav sharma</h1>
-<h3 align="center">A passionate Full Stack Web Developer from India</h3>
+<h3 align="center">A passionate MERN Stack Developer from India</h3>
 
 
 - 🌱 I’m currently learning **web Development **
